@@ -2,6 +2,12 @@ site_name: DIMPACS
 nav:
     - Autenticación: 'index.md'
     - Responsable: 'responsable.md'
+    - Pacientes: 
+        - Estado Civil: 'EstadoCivil.md'
+        - Tipos de pacientes: 'TiposPacientes.md'
+        - Crear Paciente: 'CrearPaciente.md'
+        - Obtener un paciente: 'ObtenerPaciente.md'
+
 
  
 theme: material
