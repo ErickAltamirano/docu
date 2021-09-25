@@ -1,12 +1,18 @@
 site_name: DIMPACS
 nav:
     - Autenticación: 'index.md'
-    - Responsable: 'responsable.md'
     - Pacientes: 
         - Estado Civil: 'EstadoCivil.md'
         - Tipos de pacientes: 'TiposPacientes.md'
         - Crear Paciente: 'CrearPaciente.md'
         - Obtener un paciente: 'ObtenerPaciente.md'
+    - Responsable: 'responsable.md'
+    - Agendamiento:
+        - Personal Equipo: 'PersonalEquipo.md'
+        - Medico Referencista: 'MedicoReferencista.md'
+        - Crear Agendamiento: 'CrearAgendamiento.md'
+
+    
 
 
  
